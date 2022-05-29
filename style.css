@@ -12,6 +12,7 @@ h1{
 }
 .flexible-container{
     display: flex;
+    margin-bottom: 80px;
    
 }
 
@@ -20,9 +21,12 @@ h1{
     width: 50%;
     padding-top: 5%;
     padding-left: 5%;
+    
 }
 .half-width img{
-    width: 100%;
+    width: 62.5%;
+    
+    
 }
 .link-batton{
     text-decoration: none;
@@ -32,3 +36,36 @@ h1{
     font-weight: 700;
     color: white;
 }
+#half-widh-img{
+    
+    padding-left: 10%;
+}
+.about-me{
+    
+    background-image: url(image/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}
+.my-recipies{
+    text-align: center;
+}
+.person-img{
+    padding-bottom: 20%;
+}
+.recipie-img img{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.recipie-img{
+    box-shadow: 5px 10px 10px 10px gray;
+    padding: 20px 40px;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+
+
+
+
